@@ -3,7 +3,7 @@ const AboutPage = () => {
     <>
       <h2>A Little Bit About Me</h2>
       <br></br>
-      <h3>Hola, I'm Anish Mathakiya</h3>
+      <h3>Hellow, I'm Anish Mathakiya</h3>
       <br />
       <p align="justify">Currently, I'm doing B.Tech ỉn Computer Engineering at Charusat University, Gujarat.</p>
       <p align="justify">I have a deep interest in software development and doing an internship in the same.</p>
