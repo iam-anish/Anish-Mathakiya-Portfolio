@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ZAP Attendance System",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "role": "Role: Backend Developer",
+    "description": "It’s RFID base digital solution to replace traditional paper-based attendance systems. With its advantages of 100% accuracy, user-friendly interface and cost-effectiveness compared to other options.",
+    "tags": ["Spring-Boot", "React", "PostgreSQL","Docker","Spring-Security"]
+  },
+  {
+    "id": 2,
+    "name": "Electronic Store",
+    "image": "https://imgur.com/tAZotn3.png",
+    "role": "Role: Backend Developer",
+    "description": "Here I’have created all function requirement of any E-commerce website/web-app needed.",
+    "tags": ["Spring-Boot", "MySQL"],
+    "source_code": "https://github.com/iam-anish/ElectronicStore",
+    "demo": "https://www.pcbupid.com/"
+  }
+]
